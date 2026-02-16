@@ -1,2 +1,0 @@
-# reacthost
-sample testing
